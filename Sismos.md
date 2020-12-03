@@ -92,7 +92,7 @@ Se debe elegir el atributo MAGNITUD y realizar los cortes numéricos como se mue
 
 <img src="img/sismos_map2.png" alt="sismos_map2" style="zoom:67%;" />
 
- El nivel de rango visible debe ser a nivel PAIS. Luego de realizar todos los cambios se procede ACEPTAR y finalmente GUARDAR el mapa. El nombre de la capa debe ser renombrada a "Sismos 2016" desde el menú adicional de opciones y además configurar la ventana emergente con los tres campos desplegados:
+El nivel de rango visible debe ser a nivel PAIS. Luego de realizar todos los cambios se procede ACEPTAR y finalmente GUARDAR el mapa. El nombre de la capa debe ser renombrada a "Sismos 2016" desde el menú adicional de opciones y además configurar la ventana emergente con los tres campos desplegados:
 
 <img src="img/sismos_popup.png" alt="sismos_popup" style="zoom:67%;" />
 

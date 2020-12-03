@@ -13,6 +13,8 @@ ArcGIS online permite crear una vista de mapas en línea con qué interactuar y 
 ### Guía de pasos
 
 - [Crear capa alojada](#crear-capa-alojada)
+- [Crear mapa web](#crear-mapa-web)
+- [Compartir mapas web](#compartir-mapas-web)
 
 ## Crear capa alojada
 
@@ -85,7 +87,7 @@ Finalmente la capa queda simbolizada correctamente. Al acceder a opciones el ran
 
 También en esta vista de capa se debe configurar la ventana emergente por medio las siguientes personalizadas.
 
-![img](https://lh6.googleusercontent.com/WJLKM8vboAYeL_anA6huTGnbESRAUgcJP0Y8avDJhLruN8JkXuGQaGNl5NRbNnVBbynwyPhRnCuj_v4UVnWCFZKVQLhmoFh2k1GlrWlvclrSgGnClQFMo4p5EUlkBjSGAATshOSg)
+![inmu_pop](img/inmu_pop.png)
 
 En el menú de opciones acceder a CONFIGURAR VENTANA EMERGENTE. Se debe escoger valores amigables para los usuarios como:
 
@@ -99,7 +101,7 @@ Contenido emergente: Se debe poner el siguiente detalle amigable al usuario por 
 
 Se procede a describir el siguiente texto con el botón CONFIGURAR.
 
-![inmu_pop3](D:\Users\agimenez\Documents\Cursos\WebGIS\cursogis-ejercicios\img\inmu_pop3.png)
+![inmu_pop3](img/inmu_pop3.png)
 
 Se guardan los cambios al presionar ACEPTAR. 
 
@@ -113,4 +115,34 @@ La configuración de la imagen debe ser con los siguientes detalles de Título, 
 
 Se confirman los cambios con el botón ACEPTAR en todos los paneles y finalizada la configuración la ventana emergente queda configurada en la capa y se procede a GUARDAR CAPA.
 
-![img_url3](D:\Users\agimenez\Documents\Cursos\WebGIS\cursogis-ejercicios\img\inmu_url3.png)
+![img_url3](img/inmu_url3.png)
+
+## Crear mapa web
+
+Adicionalmente se crea un mapa web para desplegar la información de inmuebles en una o más aplicaciones a partir de la capa alojada "Inmuebles Asuncion 2019". Como esta capa fue creada anteriormente se procede desde la sección CONTENIDO a acceder la INFORMACION GENERAL de la capa alojada y utilizar el botón ABRIR EN MAP VIEWER.
+
+![inmu_new_map](D:\Users\agimenez\Documents\Cursos\WebGIS\cursogis-ejercicios\img\inmu_new_map.png)
+
+Asegurarse de crear un mapa nuevo, en caso del que el MapViewer abra un mapa anterior puede presionar el botón CREAR MAPA NUEVO. Una vez abierto el MapViewer se procede a GUARDAR el mapa con el título "Inmueble en Asunción", poner etiquetas correspondientes y guardar en la carpeta EJERCICIOS.
+
+![inmu_save_map](img/inmu_save_map.png)
+
+![inmu_save_map1](img/inmu_save_map1.png)
+
+Luego para finalizar detalles se debe cambiar el mapa base de referencia a **OpenStreetMap**
+
+<img src="D:\Users\agimenez\Documents\Cursos\WebGIS\cursogis-ejercicios\img\inmu_base_layer.png" alt="inmu_base_layer" style="zoom:50%;" />
+
+Cambiar el nombre de la capa en la tabla de contenidos a Inmuebles y GUARDAR el mapa.
+
+## Compartir mapa web
+
+Luego de finalizar la edición del mapa puede proceder a compartir los mapas desde CONTENIDO por el enlace rápido y elegir TODOS.
+
+![inmu_share](img\inmu_share.png)
+
+Para capturar un enlace de su mapa puede acceder al ABRIR EN MAPVIEWER el mapa y presionar el botón COMPARTIR para capturar la URL corta de su mapa web.
+
+<img src="img/inmu_share_link.png" alt="inmu_share_link" style="zoom:70%;" /> 
+
+La aplicación esta lista para publicarse como una aplicación Web.
