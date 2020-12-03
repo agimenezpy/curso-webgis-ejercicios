@@ -111,7 +111,7 @@ Contenido multimedia: Para finalizar se configura el contenido multimedia en la 
 
 La configuración de la imagen debe ser con los siguientes detalles de Título, URL y Vínculo.
 
-![inmu_url2](img/inmu_url2.png)
+<img src="img/inmu_url2.png" alt="inmu_url2 " style="zoom:67%;" />
 
 Se confirman los cambios con el botón ACEPTAR en todos los paneles y finalizada la configuración la ventana emergente queda configurada en la capa y se procede a GUARDAR CAPA.
 
@@ -121,7 +121,7 @@ Se confirman los cambios con el botón ACEPTAR en todos los paneles y finalizada
 
 Adicionalmente se crea un mapa web para desplegar la información de inmuebles en una o más aplicaciones a partir de la capa alojada "Inmuebles Asuncion 2019". Como esta capa fue creada anteriormente se procede desde la sección CONTENIDO a acceder la INFORMACION GENERAL de la capa alojada y utilizar el botón ABRIR EN MAP VIEWER.
 
-![inmu_new_map](D:\Users\agimenez\Documents\Cursos\WebGIS\cursogis-ejercicios\img\inmu_new_map.png)
+![inmu_new_map](img/inmu_new_map.png)
 
 Asegurarse de crear un mapa nuevo, en caso del que el MapViewer abra un mapa anterior puede presionar el botón CREAR MAPA NUEVO. Una vez abierto el MapViewer se procede a GUARDAR el mapa con el título "Inmueble en Asunción", poner etiquetas correspondientes y guardar en la carpeta EJERCICIOS.
 
@@ -131,7 +131,7 @@ Asegurarse de crear un mapa nuevo, en caso del que el MapViewer abra un mapa ant
 
 Luego para finalizar detalles se debe cambiar el mapa base de referencia a **OpenStreetMap**
 
-<img src="D:\Users\agimenez\Documents\Cursos\WebGIS\cursogis-ejercicios\img\inmu_base_layer.png" alt="inmu_base_layer" style="zoom:50%;" />
+<img src="img/inmu_base_layer.png" alt="inmu_base_layer" style="zoom:50%;" />
 
 Cambiar el nombre de la capa en la tabla de contenidos a Inmuebles y GUARDAR el mapa.
 
