@@ -4,7 +4,7 @@ Practicar sus conocimientos en representación cartográfica con datos de puntos
 
 ### Requisitos
 
-Crear un cuenta en ArcGIS Online de tipo Desarrollador y acceder a su espacio en www.arcgis.com. Tenga en cuenta de crear una carpeta en su espacio de contenido bajo el nombre **EJERCICIOS**.
+Crear un cuenta en ArcGIS Online de tipo Desarrollador y acceder a su espacio en [www.arcgis.com](https://www.arcgis.com). Tenga en cuenta de crear una carpeta en su espacio de contenido bajo el nombre **EJERCICIOS**.
 
 ## Resumen
 
@@ -23,7 +23,7 @@ El primer paso de nuestro ejercicio consiste en crear un capa alojada a partir d
 
 ![sismos_excel](img/sismos_excel.png)
 
-El enlace para descargar los datos se encuentra en el siguiente enlace: https://arcg.is/qGGLT 
+El enlace para descargar los datos se encuentra en el siguiente enlace: [arcg.is/qGGLT](https://arcg.is/qGGLT) 
 
 La capa de puntos depende las columnas de la tabla denominadas **latitude** y **longitude** que serán utilizadas para suministrar la localización de los sismos. Otro campo importante es la **mag** (magnitud) y **time** (fecha).
 
