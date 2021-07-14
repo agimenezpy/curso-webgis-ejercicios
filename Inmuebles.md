@@ -68,7 +68,7 @@ Se requiere unificar por medio de una **expresión** para poder mejorar esta cla
 La expresión consiste en un lenguaje de ESRI donde se convierte lo que sea moneda Gs. a Dólares. La expresión queda cuanto sigue:
 
 ```
-**IIf($feature.moneda != 'U$S', $feature.precio / 7000, $feature.precio)**
+IIf($feature.moneda != 'U$S', $feature.precio / 7000, $feature.precio)
 ```
 
 Si no es moneda en dólares entonces dividir por el cambio 7.000 Gs. El resultado se ve mejor representado y unificado en una sola moneda.
